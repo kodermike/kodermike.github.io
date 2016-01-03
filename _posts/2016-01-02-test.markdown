@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Testing Jekyll!"
+date:   2016-01-02 22:43:23
+categories: jekyll update
+---
+
+Just a test post. This *should* look ok once I test and rebuild.
